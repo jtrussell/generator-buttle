@@ -1,0 +1,4 @@
+{
+  "open": "app/index.html",
+  "watch": "app/{,scripts/,styles/}*.{html,less,css,js}"
+}
